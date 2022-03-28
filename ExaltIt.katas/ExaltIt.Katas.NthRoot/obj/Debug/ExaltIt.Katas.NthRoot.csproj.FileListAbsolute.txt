@@ -1,0 +1,7 @@
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\bin\Debug\ExaltIt.Katas.NthRoot.exe.config
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\bin\Debug\ExaltIt.Katas.NthRoot.exe
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\bin\Debug\ExaltIt.Katas.NthRoot.pdb
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\obj\Debug\ExaltIt.Katas.NthRoot.csproj.CoreCompileInputs.cache
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\obj\Debug\ExaltIt.Katas.NthRoot.exe
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\obj\Debug\ExaltIt.Katas.NthRoot.pdb
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.Katas.NthRoot\obj\Debug\ExaltIt.Katas.NthRoot.csproj.AssemblyReference.cache

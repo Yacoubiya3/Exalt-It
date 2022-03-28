@@ -1,0 +1,7 @@
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\bin\Debug\ExaltIt.katas.SameHashCode.exe.config
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\bin\Debug\ExaltIt.katas.SameHashCode.exe
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\bin\Debug\ExaltIt.katas.SameHashCode.pdb
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\obj\Debug\ExaltIt.katas.SameHashCode.csproj.AssemblyReference.cache
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\obj\Debug\ExaltIt.katas.SameHashCode.csproj.CoreCompileInputs.cache
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\obj\Debug\ExaltIt.katas.SameHashCode.exe
+C:\Users\mar_y\source\repos\ExaltIt.katas\ExaltIt.katas.SameHashCode\obj\Debug\ExaltIt.katas.SameHashCode.pdb
